@@ -1,1 +1,5 @@
-i like football more
+<<<<<<< HEAD
+i like football
+=======
+i like football
+>>>>>>> Second
